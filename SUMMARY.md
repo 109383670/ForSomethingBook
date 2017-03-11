@@ -1,4 +1,3 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [ios游戏分辨率](ios游戏分辨率.md)
